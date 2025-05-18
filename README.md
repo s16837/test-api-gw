@@ -3,4 +3,4 @@ Test application for educational purposes
 
 test
 
-# testowanie ci #2
+# odnowienie triggera
